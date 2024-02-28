@@ -1,18 +1,22 @@
 ---
-title: "About Me"
+title: "Fishery and Oceanography Biology"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/FishOcn.png
 ---
 
 :::{#me}
 
 ## Goals
 
-## Education
+## Linux
 
-## Experience
+## PostgreSQL
+
+## R
+
+## QGIS
 
 :::
 
