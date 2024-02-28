@@ -3,7 +3,7 @@ title: "Fishery and Oceanography Biology"
 about:
   id: me
   template: broadside
-  image: img/FishOcn.png
+  image: img/earth.png
 ---
 
 ::: {#me}
